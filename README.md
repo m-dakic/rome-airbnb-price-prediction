@@ -170,5 +170,3 @@ This project is licensed under the MIT License.
 ## 👤 Author
 
 Marta Dakic
-
-Feel free to connect or reach out if you'd like to discuss machine learning, data science, or software development.
